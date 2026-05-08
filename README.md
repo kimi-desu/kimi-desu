@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @kimi-desu, called kimi, 18
-- 👀 I’m interested in gaming, and sleeping
-- 🌱 I’m currently learning nothing, i've been busy working and i forgot how to code something, but i can code basic html ofc
-- 📫 How to reach me [here](https://www.facebook.com/mohammad.hakimi.39904181/)
-- help me get my coding motivation back
+Welcome to my github account
+My name is Hakimi, you can call me Kimi
+Will be 21 years old this year
+I’m currently learning nothing, i've been busy working and i forgot how to code something, but i can code basic html ofc
+My facebook [here](https://web.facebook.com/Kimi1022/)
+My instagram [here](https://www.instagram.com/kipascoklatgelap)
+help me get my coding motivation back
