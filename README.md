@@ -1,7 +1,7 @@
-Welcome to my github account
-My name is Hakimi, you can call me Kimi
-Will be 21 years old this year
-I’m currently learning nothing, i've been busy working and i forgot how to code something, but i can code basic html ofc
-My facebook [here](https://web.facebook.com/Kimi1022/)
-My instagram [here](https://www.instagram.com/kipascoklatgelap)
-help me get my coding motivation back
+- Welcome to my github account
+- My name is Hakimi, you can call me Kimi
+- Will be 21 years old this year
+- I’m currently learning nothing, i've been busy working and i forgot how to code something, but i can code basic html ofc
+- My facebook [here](https://web.facebook.com/Kimi1022/)
+- My instagram [here](https://www.instagram.com/kipascoklatgelap)
+- help me get my coding motivation back
