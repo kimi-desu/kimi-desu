@@ -3,5 +3,4 @@
 - Will be 21 years old this year
 - I’m currently learning nothing, i've been busy working and i forgot how to code something, but i can code basic html ofc
 - My facebook [here](https://web.facebook.com/Kimi1022/)
-- My instagram [here](https://www.instagram.com/kipascoklatgelap)
-- help me get my coding motivation back
+- My instagram [here](https://www.instagram.com/kimi.sldprt)
